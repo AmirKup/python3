@@ -1,1 +1,1 @@
-# python3
+# Kupzhassarov Amir IS 202 
